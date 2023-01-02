@@ -7,7 +7,7 @@ git push
 git branch 
 git checkout
 https://www.codegrepper.com/tpc/child+to+parent+data+passing+in+react+using+children
-Hi 👋 My name is Digamber Rawat
+Hi 👋 My name is 
 ===============================
 
 Full-Stack Engineer | Technical Author @positronx.io
